@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+Learning Flutter for fun
 ## Getting Started
 
 This project is a starting point for a Flutter application.
